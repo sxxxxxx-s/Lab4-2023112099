@@ -24,7 +24,7 @@ public class L2023112099_5_Test {
     public void testExample1() {
         Solution5 s = new Solution5();
         int[] nums = {3, 5, 6, 7};
-        assertEquals(4, s.numSubseq(nums, 9));
+        assertEquals(4, s.numSubseq(nums, 10));
     }
 
     /**
